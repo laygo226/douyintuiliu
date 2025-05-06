@@ -29,7 +29,9 @@ Wireshark下载地址:https://www.wireshark.org/download.html
 在安装好 PS2EXE 后，使用以下命令将 PowerShell 脚本转换为 .exe 文件：
 
     ps2exe .\your_script.ps1 .\your_program.exe
+    
 如果PS2EXE安装错误，检查策略
+
 1.右键点击 PowerShell 快捷方式，选择 “以管理员身份运行”
 
 2.在管理员 PowerShell 中输入以下命令，查看当前的执行策略：
