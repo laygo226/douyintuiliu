@@ -1,5 +1,6 @@
 # douyintuiliu
 基于软件Wireshark一键获取抖音直播助手开播后的推流码
+![示例图片](/1.png)
 
 Ⅰ.Wireshark软件需要自行下载并且在系统的环境变量path内添加Wireshark安装根目录实现tshark可以执行
 
